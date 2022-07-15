@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisites
+Node
+```shell
+Node v16 LTS (Tested on 16.14.0)
+```
+>[Node and npm](https://nodejs.org/en/download/) are installed.
+
+If you want to use yarn. (optional)
+```shell
+npm i yarn -g
+```
+
+## Preview
+This Project is available for preview at [https://sample-commerce-nine.vercel.app/](https://sample-commerce-nine.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
